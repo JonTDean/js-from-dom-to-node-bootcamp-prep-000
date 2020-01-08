@@ -1,4 +1,4 @@
 // write your code below!
 
 
-console.log("This IDE is okay.")
+console.log("This IDE is okay.");
